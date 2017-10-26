@@ -1,0 +1,52 @@
+{
+  "menu": {
+    "home": "Home",
+    "data": "Data",
+    "products": "Products",
+    "news": "News",
+    "about": "About Us",
+    "content": "Content Us",
+    "language":"English/中文"
+  },
+  "data":{
+    "map":"Map",
+    "data":"Data",
+    "download":"DownLoad",
+    "upload":"Upload"
+  },
+  "product":{
+    "header":"Intelligent Environmental Box",
+    "idea":{
+      "title": "Concept",
+      "note1":"iEQBox is a smart all-in-one air quality monitoring device. The device integrates the state-of-the-art air quality and meteorological sensors into a portable, ready-to-mount, and cost-effective unit to measure air pollutants, including CO, CO2, O3, NO2, SO2, PM 1.0, PM2.5, and PM10.0, and meteorological data, such as wind direction, wind speed, temperature and relative humidity (RH). The device can be powered by either electric or solar power for the use in the field. The device is also equipped with GPS and cellular communication modules for recording device locations and wirelessly transmitting data in real time.",
+      "note2":"",
+      "pic4":"pic4-2.png",
+      "note3":"Compared to air quality monitoring stations, iEQBox is low-cost and portable but with accurate enough measurements of various pollutants. The low-cost and portable design allows large-scale installation to capture the spatial and temporal distribution of air pollutants in a large area. With various air pollutants and meteorological data continuously measured, iAQBox can be customized for many applications, such as analyzing health effects of air pollution and studying the impacts of traffic emission on air quality."
+    },
+    "architecture":{
+      "title":"Architecture",
+      "pic6":"pic6-2.png"
+    },
+    "components":{
+      "title":"Components",
+      "pic7":"pic7-2.png"
+    }
+  },
+  "news":{
+    "header":"EVOGLE 1.0 APP issued !!!",
+    "downloadType":"Scan QR code to download:"
+  },
+  "about":{
+    "header":"About Us",
+    "article":"Located in beautiful Los Angeles, CA, USA, EVOGLE, LLC is a high-tech environmental company. The company focuses on innovative high-technologies development on environmental monitoring, environment protection, and environment improvement. The company invented iEQBox: intelligent Environmental Quality Box, which is a state-of-the-art and state-of-the-practice product for air qualify monitoring, air big data application, and intelligent decisions for environment protection and improvement. The iEQBox has been applied in LA, CA, USA and Beijing, China."
+  },
+  "content":{
+    "note1":"Contact",
+    "note2":"Contact us at Email: ",
+    "note3":"evogle.com@gmail.com"
+  },
+  "language":{
+    "cn":"中文",
+    "en":"English"
+  }
+}
